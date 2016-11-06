@@ -1,0 +1,34 @@
+*{
+  font-family: Tahoma, Helvetica, sans-serif
+
+}
+
+body {
+      text-align: center;
+      background: url('../images/IMG_3684.JPG');
+      background-size: cover;
+      background-position: absolute;
+      color: black;
+      margin-top: 100px;
+}
+h1{
+  font-size: 20px;
+  padding: 50px;
+}
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+input[type="email"]{
+    border-radius: 25px;
+}
+input[type="submit"] {
+    background-color: rgba(0,255,255,0.3) ;
+    color: white;
+    border-radius: 25px;
+}
+
+
+
+}

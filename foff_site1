@@ -2,11 +2,18 @@
 <html>
 
   <head>
-    <title>Page title</title>
-
+    <title>FOFF 2017</title>
+    <link rel='stylesheet' type='text/css' href='./stylesheets/main.css'>
   </head>
   <body>
+    <h1> FOFF 2017 </h1>
+    <div>
+    <p> 7th-9th July </p>
+    <div>
 
-
+    <input type="email" placeholder="email">
+    <input type="submit" name="submit" value="I want to come">
+    <div>
+<p> <a>     Last year    </p>
   </body>
 </html>
